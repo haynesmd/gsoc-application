@@ -1,0 +1,2 @@
+you will need to run the following command line as super user prior to controlling the pru
+	modprobe uio_pruss
